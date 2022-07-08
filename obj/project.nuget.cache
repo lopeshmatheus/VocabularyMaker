@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "jkRQTCuIsMdk+f6XdT/S4eFIZdbuYIFwPmDUrVH1ppXuUtG+ArsAM7QRxS+HsUuw+0Ruo0nd0T4NqN+EAUUP1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mhenr\\source\\repos\\DictionaryMaker\\DictionaryMaker\\DictionaryMaker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mhenr\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
+    "C:\\Users\\mhenr\\.nuget\\packages\\google.api.gax\\4.0.0\\google.api.gax.4.0.0.nupkg.sha512",
+    "C:\\Users\\mhenr\\.nuget\\packages\\google.api.gax.rest\\4.0.0\\google.api.gax.rest.4.0.0.nupkg.sha512",
+    "C:\\Users\\mhenr\\.nuget\\packages\\google.apis\\1.57.0\\google.apis.1.57.0.nupkg.sha512",
+    "C:\\Users\\mhenr\\.nuget\\packages\\google.apis.auth\\1.57.0\\google.apis.auth.1.57.0.nupkg.sha512",
+    "C:\\Users\\mhenr\\.nuget\\packages\\google.apis.core\\1.57.0\\google.apis.core.1.57.0.nupkg.sha512",
+    "C:\\Users\\mhenr\\.nuget\\packages\\google.apis.storage.v1\\1.57.0.2685\\google.apis.storage.v1.1.57.0.2685.nupkg.sha512",
+    "C:\\Users\\mhenr\\.nuget\\packages\\google.apis.translate.v2\\1.57.0.875\\google.apis.translate.v2.1.57.0.875.nupkg.sha512",
+    "C:\\Users\\mhenr\\.nuget\\packages\\google.cloud.storage.v1\\4.0.0\\google.cloud.storage.v1.4.0.0.nupkg.sha512",
+    "C:\\Users\\mhenr\\.nuget\\packages\\google.cloud.translation.v2\\3.0.0\\google.cloud.translation.v2.3.0.0.nupkg.sha512",
+    "C:\\Users\\mhenr\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\mhenr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mhenr\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
